@@ -15,7 +15,7 @@ Soy Juan Diego, o JD, software engineer afincado en Madrid. Trabajo en integraci
 
 - **Arquitectura Opera Cloud ↔ Salesforce:** diseñé la integración PMS/CRM para Room Mate, con sincronización de perfiles de huéspedes, reservas, fidelización y datos del ciclo de vida del cliente. El alcance de estos procesos es de más de **4,5 millones de clientes en 35 hoteles**.
 - **Fundador y CTO de Vice Resell:** construí una plataforma de automatización para reventa con recomendaciones de precios, generación de anuncios y mensajes de negociación mediante LLMs. Combiné OpenAI API con reglas de control para llevar las funciones a producción. [Producto en Whop](https://whop.com/vice-resell/products/vice-resell/).
-- **Software para hotelería internacional:** he trabajado con más de **10 cadenas hoteleras**, desarrollando integraciones y automatizaciones. En Mastel construí servicios de pagos, captura de depósitos y conciliación entre FreedomPay y Opera Cloud para cadenas como Marriott, Atlantis y Pestana.
+- **Software para hotelería internacional:** he trabajado con más de **10 cadenas hoteleras**, desarrollando integraciones y automatizaciones. En Mastel construí servicios de pagos, captura de depósitos para cadenas como Marriott, Atlantis y Pestana. Cada vez que haces check in de un hotel en España.
 
 ### Most-Prideful Builds
 
@@ -32,6 +32,7 @@ Soy Juan Diego, o JD, software engineer afincado en Madrid. Trabajo en integraci
 - **Founder / CTO, Vice Resell** - 2023–2026. Desarrollo de producto y automatizaciones con IA para reventa, desde prototipo hasta producción.
 - **Full Stack Software Engineer, Mastel Hospitality** - 2023–2026. Servicios Python, APIs REST idempotentes y procesos basados en eventos para pagos, conciliación y automatización de facturación. Docker, Kubernetes, OCI, FreedomPay y Opera Cloud.
 - **Sales Engineer, Odyn AI (remoto)** - 2022–2023. Apoyo al desarrollo y despliegue de un producto de transcripción y resumen de reuniones, con integraciones de Zoom y Microsoft Teams.
+- **Sales engineer, Lenovo** vendía servidores
 - **Comunidad y voluntariado:** he propuesto un club de lectura en Exponential para compartir libros y papers. Durante mis estudios en Texas A&M participé como voluntario en actos benéficos de una congregación local.
 
 ---
