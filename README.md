@@ -1,42 +1,58 @@
-Hey there, Exponential team here. This document is a template for you to create the perfect Exponential showcase doc. We use this doc (among other things) to share your profile with partner startups. Feel free to tweak and make your own, this is just our base recommendation. You can check out a full example here.
+# [Tu nombre]
 
-⚠️ Important: in order for the doc to automatically show up in your signal.goexponential.org profile page, you must place it in a README.md file under a repo called exponential within your Github profile.
+**Best with:** TypeScript · React · PostgreSQL  
+**Familiar with:** Python · Terraform · Figma
 
-Best with: e.g. TypeScript · React · Postgres
-Familiar with: e.g. Python · Terraform · Figma
+> 💡 **TL;DR** — En 3–5 frases, explica por qué destacas como Exponential Fellow. Resume tus principales fortalezas, tus logros más importantes y qué te motiva a construir.
 
-💡 TL;DR – In 3-5 concise sentences, pitch why you’re an outstanding Exponential Fellow—highlight your super-power, biggest wins and what drives you.
+---
 
-About [Your Name]
-A short 3-5-line bio: who you are, what you do, and what excites you.
+## About Me
 
-Main Achievements
-Achievement 1. Brief description + outcome/metric (link if possible).
-Achievement 2. …
-Achievement 3. …
-Most-Prideful Builds
-Project	Your role & stack	Impact / Demo
-Build 1	e.g. Solo dev • TypeScript + Next.js	https://demo-link.com — 2k MAU, PH #3 Product of the Day
-Build 2	e.g. Backend lead • Go + gRPC	Saved 30 % infra cost for 40 clients
-Build 3	e.g. Mobile dev • Flutter	App Store • 4.8★ (1 k reviews)
-Tip: keep this zero-effort for reviewers—live links over videos; videos over downloads.
+Escribe una breve biografía de 3–5 líneas: quién eres, a qué te dedicas y qué te entusiasma.
 
-Experience (TL;DR)
-Role / Company – Date range. One-line impact description, notable tech.
-Role / Company – …
-Hackathons / OSS / Volunteering – …
-How I Work
-Gets me pumped:
-Disappoints me:
-Strengths:
-Improvement points:
-Known behaviours / comms style:
-Other
-Some personal stuff
-Feel free to check out this page for inspiration
+### Main Achievements
 
-Hobbies, sports, creative outlets.
-Values / worldview.
-Fun facts or personal links (blog, portfolio, socials).
-My vision
-Why you want the Exponential Fellowship, where you see yourself in 5 years, and how building in the US fits the plan.
+- **Logro 1:** breve descripción del resultado conseguido, con métricas y enlaces cuando sea posible.
+- **Logro 2:** describe otro logro relevante y su impacto.
+- **Logro 3:** añade un tercer logro que demuestre tus capacidades.
+
+### Most-Prideful Builds
+
+| Project | Your Role & Stack | Impact / Demo |
+|---|---|---|
+| Proyecto 1 | Desarrollador individual · TypeScript + Next.js | [Live Demo](https://example.com) · Métrica de impacto |
+| Proyecto 2 | Backend Lead · Go + gRPC | Describe el impacto conseguido |
+| Proyecto 3 | Mobile Developer · Flutter | [App / Demo](https://example.com) |
+
+> Tip: facilita la evaluación de tus proyectos incluyendo demos funcionales. Prioriza enlaces en directo, después vídeos y, por último, descargas.
+
+### Experience (TL;DR)
+
+- **Puesto / Empresa** — Periodo. Describe brevemente tu impacto y las tecnologías utilizadas.
+- **Puesto / Empresa** — Periodo. Resume tus principales responsabilidades y resultados.
+- **Hackathons / Open Source / Volunteering** — Participaciones y contribuciones destacadas.
+
+---
+
+## How I Work
+
+- **Gets me pumped:** qué te motiva y qué tipo de problemas disfrutas resolviendo.
+- **Disappoints me:** qué situaciones o dinámicas dificultan tu trabajo.
+- **Strengths:** tus principales fortalezas técnicas y personales.
+- **Improvement points:** las habilidades que estás desarrollando.
+- **Known behaviours / comms style:** cómo trabajas, colaboras y te comunicas con otras personas.
+
+---
+
+## Other
+
+### Some Personal Stuff
+
+- **Hobbies:** aficiones, deportes y actividades creativas.
+- **Values / Worldview:** valores y principios que orientan tus decisiones.
+- **Personal links:** [Portfolio](https://example.com) · [LinkedIn](https://linkedin.com) · [Personal Blog](https://example.com)
+
+### My Vision
+
+Explica por qué quieres formar parte de Exponential Fellowship, dónde te gustaría estar dentro de cinco años y cómo construir en Estados Unidos encaja con tus objetivos profesionales y personales.
