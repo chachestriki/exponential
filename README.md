@@ -5,7 +5,7 @@
 **Best with:** Python · FastAPI · TypeScript · APIs & Integrations · Oracle · E-commerce  
 **Familiar with:** React · Node.js · PostgreSQL · Docker · Kubernetes · Kafka · MCP · RAG · OpenAI API · ElevenLabs
 
-> **TL;DR:** Software engineer with experience in hospitality technology and e-commerce. Designed the Opera Cloud ↔ Salesforce integration architecture for Room Mate, covering 4.5M+ customers across 35 hotels. Founder of Vice Resell, building automation products for the resale market and growing a major European Vinted profile.
+> **TL;DR:** Software engineer with experience in hospitality technology and e-commerce. Designed the integration architecture for Room Mate, Atlantis, Pestana... covering 10M+ customers. Founder of Vice Resell, building automation products for the resale market and growing a major European Vinted profile.
 
 ## About Me
 
@@ -27,7 +27,7 @@ I've worked with international hotel groups, founded my own company and combined
 
 | Project | Role & Stack | Impact |
 |---|---|---|
-| Opera Cloud ↔ Ssforce | Architecture & Full Stack · Python, OHIP, Salesforce | 4.5M+ customers across 35 hotels |
+| Opera Cloud ↔ Ssforce | Architecture & Full Stack · Python, OHIP, Salesforce | 4.5M+ customers across 35 hotels [Demo](https://www.loom.com/share/9d99872f38624a07a002a2f48ff599a3) |
 | Hotel AI Agents | Engineering · Python, MCP, ElevenLabs | AI tools for hotel operations and voice agents |
 | Vice Resell | Founder / CTO · Python, OpenAI API | [Demo](https://www.loom.com/share/d28915086fd048c1bf63d593720bf803) |
 | Personal Portfolio | TypeScript, React, Next.js, Three.js | [Website](https://jdlabajos.com) · [GitHub](https://github.com/chachestriki/my-website) |ale
@@ -48,7 +48,7 @@ At 23, I bought and renovated my first property, doing part of the work myself, 
 <img width="250" alt="Property" src="https://github.com/user-attachments/assets/9af58771-6046-4f03-b9d1-7f5d729118d5" />
 </p>
 
-I enjoy electric guitar, chess, history, reading and genealogy. I also proposed a reading club at Exponential to bring people together around books and research papers.
+I enjoy electric guitar, chess, history, reading and genealogy. I also proposed a reading club at Exponential to bring people together around books and research papers [here](https://luma.com/mg35ezzj).
 
 ## How I Work
 
@@ -60,4 +60,4 @@ I'm particularly excited about AI agents and automation applied to real operatio
 
 I'm looking to join an ambitious startup as an **AI Engineer** (or similar, as I can adapt to the situation), ideally in San Francisco. I want to build useful AI products, learn from exceptional builders and bring my engineering and founder experience to a team that moves fast.
 
-**Links:** [Portfolio](https://jdlabajos.com) · [LinkedIn](https://www.linkedin.com/in/jdlabajos) · [GitHub](https://github
+**Links:** [Portfolio](https://jdlabajos.com) · [LinkedIn](https://www.linkedin.com/in/jdlabajos) · [GitHub](https://github.com/chachestriki)
