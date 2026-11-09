@@ -17,7 +17,7 @@ I've worked with international hotel groups, founded my own company and combined
 
 - **Hospitality integrations:** Designed the Opera Cloud ↔ Salesforce architecture for Room Mate, connecting guest profiles, reservations and loyalty data across 35 hotels and 4.5M+ customers. Worked with Marriot, Pestana and Atlantis Resorts.
 - **Vice Resell — Founder & CTO:** Built AI-powered resale automation using Python and OpenAI API, including pricing recommendations, listing generation and negotiation tools. Also had a store in Madrid [Product](https://whop.com/vice-resell/products/vice-resell/).
-<img width="1200" height="1600" alt="WhatsApp Image 2026-11-09 at 11 25 13" src="https://github.com/user-attachments/assets/041dd9e3-4060-4d8d-8376-6554c5a4423b" />
+<img width="250" alt="Vice Resell" src="https://github.com/user-attachments/assets/041dd9e3-4060-4d8d-8376-6554c5a4423b" />
 
 - **Wayra INCIBE Accelerator winner** I won a startup tournament in 2025, focused on cibersecurity with my Vinted Bots.
 
@@ -42,7 +42,7 @@ I've worked with international hotel groups, founded my own company and combined
 
 At 23, I bought and renovated my first property, doing part of the work myself, so a family in need could make it their home.
 
-<img width="900" height="1600" alt="WhatsApp Image 2026-11-09 at 11 35 13" src="https://github.com/user-attachments/assets/9af58771-6046-4f03-b9d1-7f5d729118d5" />
+<img width="250" alt="Property" src="https://github.com/user-attachments/assets/9af58771-6046-4f03-b9d1-7f5d729118d5" />
 
 I enjoy electric guitar, chess, history, reading and genealogy. I also proposed a reading club at Exponential to bring people together around books and research papers.
 
