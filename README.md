@@ -27,10 +27,10 @@ I've worked with international hotel groups, founded my own company and combined
 
 | Project | Role & Stack | Impact |
 |---|---|---|
-| Opera Cloud ↔ Salesforce | Architecture & Full Stack · Python, OHIP, Salesforce | 4.5M+ customers across 35 hotels |
+| Opera Cloud ↔ Ssforce | Architecture & Full Stack · Python, OHIP, Salesforce | 4.5M+ customers across 35 hotels |
 | Hotel AI Agents | Engineering · Python, MCP, ElevenLabs | AI tools for hotel operations and voice agents |
 | Vice Resell | Founder / CTO · Python, OpenAI API | AI-powered resale automation |
-| Personal Portfolio | TypeScript, React, Next.js, Three.js | [Website](https://jdlabajos.com) · [GitHub](https://github.com/chachestriki/my-website) |
+| Personal Portfolio | TypeScript, React, Next.js, Three.js | [Website](https://jdlabajos.com) · [GitHub](https://github.com/chachestriki/my-website) |ale
 
 ## Experience
 
@@ -44,7 +44,9 @@ I've worked with international hotel groups, founded my own company and combined
 
 At 23, I bought and renovated my first property, doing part of the work myself, so a family in need could make it their home.
 
+<p align="center">
 <img width="250" alt="Property" src="https://github.com/user-attachments/assets/9af58771-6046-4f03-b9d1-7f5d729118d5" />
+</p>
 
 I enjoy electric guitar, chess, history, reading and genealogy. I also proposed a reading club at Exponential to bring people together around books and research papers.
 
@@ -56,6 +58,6 @@ I'm particularly excited about AI agents and automation applied to real operatio
 
 ## What's Next?
 
-I'm looking to join an ambitious startup as an **AI Engineer**, ideally in San Francisco. I want to build useful AI products, learn from exceptional builders and bring my engineering and founder experience to a team that moves fast.
+I'm looking to join an ambitious startup as an **AI Engineer** (or similar, as I can adapt to the situation), ideally in San Francisco. I want to build useful AI products, learn from exceptional builders and bring my engineering and founder experience to a team that moves fast.
 
 **Links:** [Portfolio](https://jdlabajos.com) · [LinkedIn](https://www.linkedin.com/in/jdlabajos) · [GitHub](https://github
