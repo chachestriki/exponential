@@ -29,7 +29,7 @@ I've worked with international hotel groups, founded my own company and combined
 |---|---|---|
 | Opera Cloud ↔ Ssforce | Architecture & Full Stack · Python, OHIP, Salesforce | 4.5M+ customers across 35 hotels |
 | Hotel AI Agents | Engineering · Python, MCP, ElevenLabs | AI tools for hotel operations and voice agents |
-| Vice Resell | Founder / CTO · Python, OpenAI API | AI-powered resale automation |
+| Vice Resell | Founder / CTO · Python, OpenAI API | [Demo] (https://www.loom.com/share/d28915086fd048c1bf63d593720bf803) |
 | Personal Portfolio | TypeScript, React, Next.js, Three.js | [Website](https://jdlabajos.com) · [GitHub](https://github.com/chachestriki/my-website) |ale
 
 ## Experience
