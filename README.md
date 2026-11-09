@@ -1,62 +1,59 @@
 # Juan Diego "JD" Gómez Labajos
 
-**Best with:** Python · FastAPI · TypeScript · APIs e integraciones · Oracle Opera Cloud / OHIP  
+**Software Engineer · AI Engineer · Founder**
+
+**Best with:** Python · FastAPI · TypeScript · APIs & Integrations · Oracle · E-commerce  
 **Familiar with:** React · Node.js · PostgreSQL · Docker · Kubernetes · Kafka · MCP · RAG · OpenAI API · ElevenLabs
 
-> 💡 **TL;DR**: Soy software engineer con experiencia full-stack, especialización en tecnología hotelera y foco en ingeniería de IA. He diseñado la arquitectura de integración entre Opera Cloud y Salesforce para Room Mate, en procesos que afectan a más de 4,5 millones de clientes en 35 hoteles. También he fundado Vice Resell, donde he llevado automatizaciones con IA desde el prototipo hasta su uso real. Mi siguiente paso es trabajar como AI engineer en una startup, preferiblemente en San Francisco, combinando experiencia de producto, conocimiento de negocio y capacidad para construir sistemas de principio a fin.
-
----
+> **TL;DR:** Software engineer with experience in hospitality technology and e-commerce. Designed the Opera Cloud ↔ Salesforce integration architecture for Room Mate, covering 4.5M+ customers across 35 hotels. Founder of Vice Resell, building automation products for the resale market and growing a major European Vinted profile.
 
 ## About Me
 
-Soy Juan Diego, o JD, software engineer afincado en Madrid. Trabajo en integraciones, backend y automatización para el sector hotelero, y desarrollo herramientas que conectan agentes de IA con sistemas operativos reales. Mi trayectoria combina trabajo para cadenas internacionales, experiencia como fundador y sales engineering. Me formé en Management & Technology en la Universidad Carlos III y estudié también en Texas A&M, en College Station.
+I'm JD, a software engineer based in Madrid. I build backend systems, integrations and AI-powered tools that connect software with real-world operations.
 
-### Main Achievements
+I've worked with international hotel groups, founded my own company and combined engineering with sales and product development. I studied Management & Technology at Universidad Carlos III and spent an exchange year at Texas A&M.
 
-- **Arquitectura Opera Cloud ↔ Salesforce:** diseñé la integración PMS/CRM para Room Mate, con sincronización de perfiles de huéspedes, reservas, fidelización y datos del ciclo de vida del cliente. El alcance de estos procesos es de más de **4,5 millones de clientes en 35 hoteles**.
-- **Fundador y CTO de Vice Resell:** construí una plataforma de automatización para reventa con recomendaciones de precios, generación de anuncios y mensajes de negociación mediante LLMs. Combiné OpenAI API con reglas de control para llevar las funciones a producción. [Producto en Whop](https://whop.com/vice-resell/products/vice-resell/).
-- **Software para hotelería internacional:** he trabajado con más de **10 cadenas hoteleras**, desarrollando integraciones y automatizaciones. En Mastel construí servicios de pagos, captura de depósitos para cadenas como Marriott, Atlantis y Pestana. Cada vez que haces check in de un hotel en España.
+## Main Achievements
 
-### Most-Prideful Builds
+- **Hospitality integrations:** Designed the Opera Cloud ↔ Salesforce architecture for Room Mate, connecting guest profiles, reservations and loyalty data across 35 hotels and 4.5M+ customers. Worked with Marriot, Pestana and Atlantis Resorts.
+- **Vice Resell — Founder & CTO:** Built AI-powered resale automation using Python and OpenAI API, including pricing recommendations, listing generation and negotiation tools. Also had a store in Madrid [Product](https://whop.com/vice-resell/products/vice-resell/).
+<img width="1200" height="1600" alt="WhatsApp Image 2026-11-09 at 11 25 13" src="https://github.com/user-attachments/assets/041dd9e3-4060-4d8d-8376-6554c5a4423b" />
 
-| Project | Your Role & Stack | Impact / Demo |
+- **Wayra INCIBE Accelerator winner** I won a startup tournament in 2025, focused on cibersecurity with my Vinted Bots.
+
+## Selected Builds
+
+| Project | Role & Stack | Impact |
 |---|---|---|
-| Opera Cloud ↔ Salesforce | Diseño de arquitectura y desarrollo full-stack para Room Mate · Python, OHIP, Salesforce, APIs y eventos | Sincronización de datos PMS/CRM en procesos que afectan a 4,5 millones de clientes en 35 hoteles. Proyecto empresarial sin demo pública verificada. |
-| Herramientas MCP y agentes de voz para hoteles | Desarrollo de la capa de herramientas e integración · Python, MCP, OHIP, Salesforce, ElevenLabs | Operaciones de reservas, huéspedes y servicios accesibles mediante herramientas estructuradas para agentes. Sin demo pública verificada. |
-| Vice Resell | Founder / CTO · Python, OpenAI API, APIs de marketplaces y automatización | Recomendaciones de precios, generación de anuncios y mensajes de negociación. [Producto en Whop](https://whop.com/vice-resell/products/vice-resell/) (no es una demo técnica). |
-| Portfolio personal | Desarrollo web · TypeScript, React, Next.js, Tailwind CSS y three.js | Presentación de mi trayectoria y proyectos. [Web](https://jdlabajos.com) · [Código](https://github.com/chachestriki/my-website). |
+| Opera Cloud ↔ Salesforce | Architecture & Full Stack · Python, OHIP, Salesforce | 4.5M+ customers across 35 hotels |
+| Hotel AI Agents | Engineering · Python, MCP, ElevenLabs | AI tools for hotel operations and voice agents |
+| Vice Resell | Founder / CTO · Python, OpenAI API | AI-powered resale automation |
+| Personal Portfolio | TypeScript, React, Next.js, Three.js | [Website](https://jdlabajos.com) · [GitHub](https://github.com/chachestriki/my-website) |
 
-### Experience (TL;DR)
+## Experience
 
-- **Full Stack Software Engineer, proyecto Room Mate Hospitality Group (Profile / Capitole)** - 2026–actualidad. Arquitectura Opera Cloud–Salesforce, herramientas MCP para operaciones hoteleras y agentes de voz con ElevenLabs.
-- **Founder / CTO, Vice Resell** - 2023–2026. Desarrollo de producto y automatizaciones con IA para reventa, desde prototipo hasta producción.
-- **Full Stack Software Engineer, Mastel Hospitality** - 2023–2026. Servicios Python, APIs REST idempotentes y procesos basados en eventos para pagos, conciliación y automatización de facturación. Docker, Kubernetes, OCI, FreedomPay y Opera Cloud.
-- **Sales Engineer, Odyn AI (remoto)** - 2022–2023. Apoyo al desarrollo y despliegue de un producto de transcripción y resumen de reuniones, con integraciones de Zoom y Microsoft Teams.
-- **Sales engineer, Lenovo** vendía servidores
-- **Comunidad y voluntariado:** he propuesto un club de lectura en Exponential para compartir libros y papers. Durante mis estudios en Texas A&M participé como voluntario en actos benéficos de una congregación local.
+- **Full Stack Software Engineer — Room Mate Hospitality Group (Profile / Capitole)** · 2026–Present
+- **Founder & CTO — Vice Resell** · 2023–2026
+- **Full Stack Software Engineer — Mastel Hospitality** · 2023–2026
+- **Sales Engineer — Odyn AI** · 2022–2023
+- **Sales Engineer — Lenovo**
 
----
+## Beyond Work
+
+At 23, I bought and renovated my first property, doing part of the work myself, so a family in need could make it their home.
+
+<img width="900" height="1600" alt="WhatsApp Image 2026-11-09 at 11 35 13" src="https://github.com/user-attachments/assets/9af58771-6046-4f03-b9d1-7f5d729118d5" />
+
+I enjoy electric guitar, chess, history, reading and genealogy. I also proposed a reading club at Exponential to bring people together around books and research papers.
 
 ## How I Work
 
-- **Gets me pumped:** construir productos de IA que resuelvan problemas operativos reales, especialmente donde puedo combinar software con mi experiencia en hotelería. Quiero seguir ese camino dentro de una startup.
-- **Disappoints me:** [Por concretar: no quiero atribuirme una preferencia sobre equipos o dinámicas de trabajo que todavía no he definido aquí.]
-- **Strengths:** diseño de integraciones entre sistemas, backend y APIs, conocimiento del sector hotelero y capacidad para conectar requisitos de negocio con implementación técnica. Aporto también experiencia como fundador y proponiendo mejoras de producto más allá del trabajo asignado.
-- **Improvement points:** seguir profundizando en LLMs y sistemas de agentes, una dirección que ya estoy desarrollando con MCP, RAG, tool-calling y evaluación.
-- **Known behaviours / comms style:** mi experiencia combina arquitectura, implementación y conversación con clientes. En mis puestos he propuesto nuevas funciones y mejoras, además de desarrollar las tareas asignadas.
+I'm proactive, curious and enjoy taking ownership beyond my assigned responsibilities. I like understanding the business problem, proposing solutions and seeing them through to production.
 
----
+I'm particularly excited about AI agents and automation applied to real operational challenges. One thing I'm working on is learning when to stop polishing a project and move on to the next opportunity.
 
-## Other
+## What's Next?
 
-### Some Personal Stuff
+I'm looking to join an ambitious startup as an **AI Engineer**, ideally in San Francisco. I want to build useful AI products, learn from exceptional builders and bring my engineering and founder experience to a team that moves fast.
 
-- **Hobbies:** guitarra eléctrica, lectura, historia de Madrid e investigación genealógica. Me interesa compartir lecturas y debatir ideas, de ahí la propuesta de un club de lectura en Exponential.
-- **Values / Worldview:** [Por concretar en mis propias palabras: los proyectos y aficiones de este perfil no sustituyen una declaración personal de valores.]
-- **Personal links:** [Portfolio](https://jdlabajos.com) · [LinkedIn](https://www.linkedin.com/in/jdlabajos) · [GitHub](https://github.com/chachestriki) · [Propuesta de club de lectura](https://news.goexponential.org/item?id=217)
-
-### My Vision
-
-Mi objetivo a corto plazo es trabajar como AI engineer en una startup de San Francisco. Si no es posible, mi alternativa es una startup en Madrid con sede en Estados Unidos o España. Quiero llevar a ese entorno mi experiencia construyendo integraciones, automatizaciones y productos con IA, especialmente en un sector que conozco de primera mano: la hotelería.
-
-**Propuesta de visión a cinco años, pendiente de validar:** quiero que Exponential Fellowship me ayude a dar ese salto, aprender de otros builders y aportar tanto desde la ingeniería como desde mi experiencia como fundador. En cinco años me gustaría tener más responsabilidad técnica y de producto, construyendo sistemas de IA utilizados en operaciones reales. Trabajar en Estados Unidos sería una forma de acercarme al ecosistema de startups en el que quiero desarrollar esa siguiente etapa.
+**Links:** [Portfolio](https://jdlabajos.com) · [LinkedIn](https://www.linkedin.com/in/jdlabajos) · [GitHub](https://github
